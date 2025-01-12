@@ -1,0 +1,29 @@
+body {
+    color: darkgreen;
+    font-size: 46px;
+}
+
+section h1 {
+    color: red;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+nav {
+    font-size: 24px;
+    margin-left: 50px;
+}
+
+h1 {
+    color: lightblue;
+}
+
+section {
+    color: purple;
+}
+
+p {
+    font-size: 24px;
+}
